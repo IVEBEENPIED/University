@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trident Lakes 211111 01 Scene Output 4096
+* source:	https://sketchfab.com/3d-models/trident-lakes-211111-01-scene-output-4096-ec227d7304bb435699b0895bc3c18bc1
+* author:	davidbryanroberson (https://sketchfab.com/davidbryanroberson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trident Lakes 211111 01 Scene Output 4096" (https://sketchfab.com/3d-models/trident-lakes-211111-01-scene-output-4096-ec227d7304bb435699b0895bc3c18bc1) by davidbryanroberson (https://sketchfab.com/davidbryanroberson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
