@@ -1,0 +1,11 @@
+Model Information:
+* title:	ZEDA #0029
+* source:	https://sketchfab.com/3d-models/zeda-0029-6a2634e5656648e2b3f9fa54069f135b
+* author:	ZEDA (https://sketchfab.com/xamsgh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ZEDA #0029" (https://sketchfab.com/3d-models/zeda-0029-6a2634e5656648e2b3f9fa54069f135b) by ZEDA (https://sketchfab.com/xamsgh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
