@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gazebo
+* source:	https://sketchfab.com/3d-models/gazebo-341f8e563e84442984f7286f2266fc68
+* author:	Timon Matthews (https://sketchfab.com/timonmatthews)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gazebo" (https://sketchfab.com/3d-models/gazebo-341f8e563e84442984f7286f2266fc68) by Timon Matthews (https://sketchfab.com/timonmatthews) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

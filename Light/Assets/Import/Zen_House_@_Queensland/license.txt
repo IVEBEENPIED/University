@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zen House @ Queensland
+* source:	https://sketchfab.com/3d-models/zen-house-queensland-58165628b2924aee9e366fdc2e12f0f1
+* author:	Ultimate Steel Framing - Nev (https://sketchfab.com/nevillecrisp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zen House @ Queensland" (https://sketchfab.com/3d-models/zen-house-queensland-58165628b2924aee9e366fdc2e12f0f1) by Ultimate Steel Framing - Nev (https://sketchfab.com/nevillecrisp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

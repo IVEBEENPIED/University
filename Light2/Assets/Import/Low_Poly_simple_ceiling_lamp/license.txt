@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly simple ceiling lamp
+* source:	https://sketchfab.com/3d-models/low-poly-simple-ceiling-lamp-4dfe531deb234506a8a26fe410c18252
+* author:	imperioame (https://sketchfab.com/imperioame)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly simple ceiling lamp" (https://sketchfab.com/3d-models/low-poly-simple-ceiling-lamp-4dfe531deb234506a8a26fe410c18252) by imperioame (https://sketchfab.com/imperioame) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	House With Pool
+* source:	https://sketchfab.com/3d-models/house-with-pool-4d0cbf4407304d6490c367f3ffa3b135
+* author:	rutikrghadge (https://sketchfab.com/rutikrghadge)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "House With Pool" (https://sketchfab.com/3d-models/house-with-pool-4d0cbf4407304d6490c367f3ffa3b135) by rutikrghadge (https://sketchfab.com/rutikrghadge) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
